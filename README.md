@@ -1,7 +1,7 @@
 # API REstFull #
 
-<p class="align-center"
-  <img height="460" width="300" src="RestFull-clinica.gif">
+<p align="center">
+  <img height="480" width="320" src="RestFull-clinica.gif">
  </p>
 
 **O que tem na API**
