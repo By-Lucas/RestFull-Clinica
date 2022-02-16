@@ -43,5 +43,3 @@
 
 - Patient cannot be re-scheduled for the same date time.
 
-
-**Any Whatsapp questions = 74981199190**
